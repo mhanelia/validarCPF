@@ -1,3 +1,5 @@
+package br.murilo;
+
 public class ValidaCPF {
 
     public boolean isCPF(String CPF) {
