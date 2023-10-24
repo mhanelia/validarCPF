@@ -34,7 +34,7 @@
 
 5 - Feito isso, basta salvar clicando em "Save"
 
-6 - Após clicar sobre a pipepline criada, você poderia ver os resultados e rodar quantas vezes forem necessárias:
+6 - Após clicar sobre a pipepline criada, você poderá ver os resultados e rodar a pipeline quantas vezes forem necessárias:
 
 ![](docs/5.png)
 ![](docs/6.png)
